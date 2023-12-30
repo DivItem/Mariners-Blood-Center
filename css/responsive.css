@@ -1,0 +1,559 @@
+@media (min-width: 320px) and (max-width: 767px) {
+    .body-bg {
+        background-image: url("../assets/img/backaground-mobile.jpg");
+      }
+      
+    .navbar {
+        padding-top: 0;
+    }
+    .sb-topnav .navbar-brand img {
+        width: 100%;
+        max-width: 80%;
+    }
+    nav .navbar-brand {
+        top: 10px;
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .sb-topnav {
+        background-image: none;
+    }
+    img.for-mobile.img-fluid {
+        display: block;
+    }
+    .nav-logo {
+        display: block;
+        margin: 0 auto;
+        position: absolute;
+        left: 38%;
+        bottom: 20px;
+    }
+    .nav-logo img {
+        max-width: 84px;
+        margin-top: 64px;
+    }
+    #sidebarToggle {
+        top: 51px;
+        left: 82%;
+    }
+    .donor-item {
+        max-width: 213px;
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+    }
+    .donor-item img, .report-item img {
+        max-width: 140px;
+    }
+    .donor-item a, .report-item a {
+        display: block;
+        font-size: 20px;
+    }
+    .report-item {
+        text-align: center;
+        display: block;
+        margin: 20px auto 0;
+    }
+    .dashboard-btn {
+        font-size: 16px;
+    }
+    footer.footer-area {
+        height: 60px;
+    }
+    
+    /* Profile.html CSS*/
+     .personal-profile-bg .navbar-brand {
+        top: 15px;
+    }
+    .profile-heading h2 {
+        font-size: 25px
+    }
+    .profile-content-area {
+        margin-top: 11px;
+        text-align: center;
+    }
+    .personal-profile-bg .navbar-brand {
+        top: 14px;
+    }
+    .main-btn {
+        display: block;
+    }
+    .first-border {
+        margin-top: 25px;
+        margin-right: 0;
+    }
+    .personal-info {
+        padding: 5px 5px;
+    }
+    .details-info {
+        padding: 0 10px;
+    }
+    .info-first-border {
+        padding: 11px 12px;
+    }
+    .info-third-border {
+        display: block;
+    }
+    .info-first-border h4.table-heading {
+        font-size: 20px;
+    }
+    .personal-info {
+        font-size: 12px;
+        font-weight: normal;
+    }
+    .details-info .row {
+        width: 100%;
+        margin: 0;
+    }
+    .height {
+        display: block;
+    }
+    .user-login {
+        right: 28px;
+        top: -17px;
+    }
+    .user-login-btn .dropdown-btn {
+        font-size: 16px;
+    }
+    button.dropdown-btn .fa-user {
+        font-size: 8px;
+        padding: 4px;
+        left: -15px;
+        top: 26px;
+    }
+    button.dropdown-btn .fa-angle-down {
+        font-size: 15px;
+        right: -11px;
+        top: 29px;
+    }
+    .dropdown-content {
+        min-width: 140px;
+        top: 30px;
+        transition: all .5s;
+    }
+    .user-login-btn:hover .dropdown-content {
+      top: 50px;
+    }
+    .dropdown-content a {
+        font-size: 12px;
+    }
+    
+
+}
+
+@media (min-width: 360px) and (max-width: 767px) {
+   
+    .dashboard-btn {
+        font-size: 16px;
+    }
+    .personal-profile-bg .navbar-brand {
+        top: 15px;
+    }
+    .first-border {
+        margin-top: 25px;
+        margin-right: 0;
+    }
+    .personal-info {
+        padding: 5px 5px;
+    }
+    .details-info {
+        padding: 0 10px;
+    }
+    .info-first-border {
+        padding: 11px 12px;
+    }
+    .info-third-border {
+        display: block;
+    }
+    .info-first-border h4.table-heading {
+        font-size: 20px;
+    }
+    .personal-info {
+        font-size: 12px;
+        font-weight: normal;
+    }
+    .details-info .row {
+        width: 100%;
+        margin: 0;
+    }
+    .height {
+        display: block;
+    }
+    .user-login {
+        right: 28px;
+        top: -17px;
+    }
+    .user-login-btn .dropdown-btn {
+        font-size: 16px;
+    }
+    button.dropdown-btn .fa-user {
+        font-size: 8px;
+        padding: 4px;
+        left: -15px;
+        top: 26px;
+    }
+    button.dropdown-btn .fa-angle-down {
+        font-size: 15px;
+        right: -11px;
+        top: 29px;
+    }
+    .dropdown-content {
+        min-width: 140px;
+        top: 30px;
+        transition: all .5s;
+    }
+    .user-login-btn:hover .dropdown-content {
+      top: 50px;
+    }
+    
+    .dropdown-content a {
+        font-size: 12px;
+    }
+    
+
+}
+
+
+@media (min-width: 393px) and (max-width: 767px) {
+
+.dashboard-btn {
+    font-size: 16px;
+}
+.personal-profile-bg .navbar-brand {
+    top: 21px;
+}
+   
+.first-border {
+    margin-top: 25px;
+    margin-right: 0;
+}
+.personal-info {
+    padding: 5px 5px;
+}
+.personal-info h4.table-heading {
+    display: none;
+}
+.details-info {
+    padding: 0 10px;
+}
+.details-info .row {
+    max-width: 100%;
+    margin: 0;
+}
+.info-third-border {
+    display: block;
+}
+.info-first-border {
+    padding: 11px 13px;
+}
+.info-first-border h4.table-heading {
+    font-size: 22px;
+}
+.personal-info {
+    font-size: 14px;
+    font-weight: normal;
+}
+.height {
+    display: none;
+}
+.user-login {
+    right: 28px;
+    top: -17px;
+}
+.user-login-btn .dropdown-btn {
+    font-size: 16px;
+}
+button.dropdown-btn .fa-user {
+    font-size: 8px;
+    padding: 4px;
+    left: -15px;
+    top: 26px;
+}
+button.dropdown-btn .fa-angle-down {
+    font-size: 15px;
+    right: -11px;
+    top: 29px;
+}
+.dropdown-content {
+    min-width: 140px;
+    top: 30px;
+    transition: all .5s;
+}
+.user-login-btn:hover .dropdown-content {
+  top: 50px;
+}
+.dropdown-content a {
+    font-size: 12px;
+}
+
+}
+    
+/* Extra Small Devices, Phones */
+
+@media (min-width: 480px) and (max-width: 767px) {
+    .body-bg {
+        background-image: url("../assets/img/backaground-mobile.jpg");
+      }
+    .navbar {
+        padding-top: 0;
+    }
+    .sb-topnav .navbar-brand img {
+        width: 100%;
+        max-width: 80%;
+    }
+    nav .navbar-brand {
+        top: 15px;
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .sb-topnav {
+        background-image: none;
+    }
+    img.for-mobile.img-fluid {
+        display: block;
+    }
+    .nav-logo {
+        display: block;
+        margin: 0 auto;
+        position: absolute;
+        left: 38%;
+        bottom: 20px;
+    }
+    .nav-logo img {
+        max-width: 136px;
+        margin-top: 64px;
+    }
+    #sidebarToggle {
+        top: 75px;
+        left: 87%;
+    }
+    .donor-item {
+        max-width: 213px;
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+    }
+    .donor-item img, .report-item img {
+        max-width: 140px;
+    }
+    .donor-item a, .report-item a {
+        display: block;
+    }
+    .report-item {
+        text-align: center;
+        display: block;
+        margin: 20px auto 0;
+    }
+    #layoutSidenav_content .page-name {
+        margin-left: 30px;
+    }
+    .dashboard-btn {
+        font-size: 16px;
+    }
+       
+/* Profile.html CSS*/
+
+    .profile-content-area {
+        margin-top: 11px;
+        text-align: center;
+    }
+    .personal-profile-bg .navbar-brand {
+        top: 35px;
+    }
+    .details-info {
+        padding: 0 10px;
+    }
+    .first-border {
+        margin-top: 25px;
+        margin-right: 0;
+    }
+    .info-third-border {
+        display: block;
+    }
+    .details-info .row {
+        width: 100%;
+        margin: 0;
+    }
+    .personal-info {
+        padding: 5px 5px;
+    }
+    .info-first-border {
+        padding: 11px 13px;
+    }
+    .personal-info {
+        font-size: 14px;
+        font-weight: normal;
+    }
+    .height {
+        display: none;
+    }
+    .user-login {
+        right: 28px;
+        top: -17px;
+    }
+
+}
+
+/* Small Devices, Tablets */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    .navbar {
+        padding-top: 0;
+    }
+    .sb-topnav .navbar-brand img {
+        width: 100%;
+        max-width: 80%;
+    }
+    nav .navbar-brand {
+        top: 15px;
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .sb-topnav {
+        background-image: none;
+    }
+    img.for-mobile.img-fluid {
+        display: block;
+    }
+    .nav-logo {
+        display: block;
+        margin: 0 auto;
+        position: absolute;
+        left: 38%;
+        bottom: 30px;
+    }
+    .nav-logo img {
+        max-width: 198px;
+        margin-top: 64px;
+    }
+    #sidebarToggle {
+        top: 39%;
+        left: 85%;
+    }
+    .sb-sidenav .sb-sidenav-menu .nav {
+        padding-left: 35px;
+    }
+    #layoutSidenav_content .page-name {
+        margin-left: 30px;
+    }
+    .dashboard-btn {
+        font-size: 16px;
+    }
+
+    footer.footer-area {
+        height: 80px;
+    } 
+    
+    /* Profile.html CSS*/
+    .profile-content-area {
+        margin-top: 11px;
+        text-align: center;
+    }
+    .personal-profile-bg .navbar-brand {
+        top: 35px;
+    }
+    .info-third-border {
+        display: block;
+    }
+
+    .details-info {
+        margin-top: 40px;
+    }
+    .personal-info {
+        padding: 5px 5px;
+        font-size: 14px;
+    }
+  .height {
+    display: none;
+    }
+    .user-login {
+        top: -12px;
+    }
+
+
+
+}
+
+/* Medium Devices, Desktops */
+
+@media (min-width: 992px) and (max-width: 1169px) {
+    .sb-topnav {
+        background-size: cover;
+    }
+    a.navbar-brand img {
+        max-width: 320px;
+    }
+    nav .navbar-brand {
+        top: 5px;
+    }
+    .nav-logo img {
+        max-width: 120px;
+    }
+    #sidebarToggle {
+        left: 32%;
+        top: 12px;
+    }
+    .container-fluid {
+        padding-right: 15px;
+    }
+    .report-details h5 {
+        font-size: 22px;
+    }
+    .report-details p {
+        font-size: 16px;
+    }
+    .personal-info {
+        font-size: 14px;
+    }
+    .user-login-btn .dropdown-btn {
+        padding: 22px 8px;
+    }
+    .user-login-btn:hover .dropdown-content {
+        top: 65px;
+    }
+    button.dropdown-btn .fa-user {
+        top: 21px;
+    }
+    button.dropdown-btn .fa-angle-down {
+        top: 28px;
+    }
+
+
+
+}
+
+/* Large Devices, Wide Screens */
+
+@media (min-width: 1170px) and (max-width: 1366px) {
+    nav .navbar-brand {
+        top: 6px;
+    }
+    .sb-topnav {
+        background-size: cover;
+    }
+    .container-fluid {
+        padding-right: 15px;
+    }
+    .personal-info {
+        font-size: 14px;
+    }
+
+}
+@media (min-width: 1367px) and (max-width: 1920px) {
+    .profile-heading h2 {
+    font-size: 50px;
+}
+.profile-heading p {
+    font-size: 26px;
+    margin: 18px 0;
+}
+ 
+div#personal-profile-content {
+    margin-top: 30px;
+}
+    
+}
